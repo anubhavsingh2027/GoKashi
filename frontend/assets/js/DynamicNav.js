@@ -202,14 +202,14 @@ async function loadNavbar() {
                       <span class="inline-block transform group-hover:scale-110 group-hover:rotate-1 transition-all duration-300 animation-delay-200">s</span>
                       <span class="inline-block transform group-hover:scale-110 transition-all duration-300 animation-delay-300">h</span>
                       <span class="inline-block transform group-hover:scale-110 group-hover:rotate-1 transition-all duration-300 animation-delay-400">i</span>
-                      <span class="inline-block transform group-hover:scale-110 transition-all duration-300 animation-delay-500">k</span>
-                      <span class="inline-block transform group-hover:scale-110 group-hover:rotate-1 transition-all duration-300 animation-delay-600">a</span>
+                     
+
                     </span>
                     <!-- Animated gradient underline -->
                     <div class="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-700 origin-left"></div>
                   </div>
                   <span class="block text-gray-700 text-xs font-bold tracking-widest animate-fade-in animation-delay-300 transform group-hover:translate-x-1 transition-transform duration-300">
-                    TRAVELS & TOURS
+                    Route
                   </span>
                 </div>
               </div>
