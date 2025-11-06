@@ -79,7 +79,7 @@ async function loadNavbar() {
         { name: "About", href: "/about" },
         { name: "Packages", href: "/packageDetails" },
         { name: "Cars", href: "/carDetails" },
-        { name: "Contact", href: "contact.html" },
+        { name: "Contact", href: "contact" },
         { name: "Sign In", href: "/login" },
       ];
     } else if (LoggedIn && userType === "guest") {
@@ -91,7 +91,7 @@ async function loadNavbar() {
         { name: "Book Package", href: "/packageBook" },
         { name: "Book Car", href: "/carBook" },
         { name: "History", href: "/history" },
-        { name: "Contact", href: "contact.html" },
+        { name: "Contact", href: "contact" },
         { name: "Sign Out", href: "/login?logoutRequest=true" },
       ];
     } else if (LoggedIn && userType === "host") {
@@ -202,7 +202,7 @@ async function loadNavbar() {
                       <span class="inline-block transform group-hover:scale-110 group-hover:rotate-1 transition-all duration-300 animation-delay-200">s</span>
                       <span class="inline-block transform group-hover:scale-110 transition-all duration-300 animation-delay-300">h</span>
                       <span class="inline-block transform group-hover:scale-110 group-hover:rotate-1 transition-all duration-300 animation-delay-400">i</span>
-                     
+
 
                     </span>
                     <!-- Animated gradient underline -->
