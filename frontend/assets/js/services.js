@@ -1,5 +1,5 @@
 const apiurl = `https://go-kashi-backend.onrender.com/goKashi/`;
-goKashi;
+
 export async function createPackage(packageData) {
   try {
     const response = await fetch(`${apiurl}admin/createPackage`, {
