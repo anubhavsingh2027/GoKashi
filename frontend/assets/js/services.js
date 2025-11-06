@@ -1,4 +1,5 @@
 const apiurl = `https://go-kashi-backend.onrender.com/KashiRoute/`;
+const mailapi= `https://mail-api-iuw1zw.fly.dev/sendMail`
 
 export async function createPackage(packageData) {
   try {
@@ -266,7 +267,7 @@ export async function sendMail(data) {
 
   try {
     const response = await fetch(
-      `https://anubhavmail.anubhavsingh.website/sendMail`,
+      `${mailapi}`,
       {
         method: "POST",
         headers: {
