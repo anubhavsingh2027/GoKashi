@@ -87,8 +87,9 @@ Copy code
 
 ## 📧 Contact & Support
 
-**Developer:** nav-code
-**For Collaboration / Support:** *(Add your email here)*
+**Developer:** Anubhav SINGH
+
+**For Collaboration / Support:** *(anubhavsingh2027@gmail.com)*
 
 ---
 
