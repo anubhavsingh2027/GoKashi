@@ -87,7 +87,7 @@ Copy code
 
 ## 📧 Contact & Support
 
-**Developer:** Anubhav SINGH
+**Developer:** Anubhav Singh
 
 **For Collaboration / Support:** *(anubhavsingh2027@gmail.com)*
 
