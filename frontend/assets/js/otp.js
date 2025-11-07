@@ -34,7 +34,7 @@ function createOtpHtmlTemplate({ email, otp }) {
   <div style="font-family:Poppins,Arial,sans-serif;background:#f4f7f6;padding:20px;">
     <div style="max-width:500px;margin:auto;background:#fff;border-radius:12px;border:1px solid #e5e5e5;overflow:hidden;">
       <div style="background:#f8f9fa;padding:40px;text-align:center;border-bottom:1px solid #dee2e6;">
-        <img src="https://kashika-travel.anubhavsingh.website/assets/images/logo.png" alt="Kashi Route Logo" style="max-width:110px;">
+        <img src="https://kashiroute.nav-code.com/assets/images/logo.png" alt="Kashi Route Logo" style="max-width:110px;">
       </div>
       <div style="padding:35px 40px;text-align:center;color:#343a40;">
         <h1 style="font-size:24px;font-weight:700;">Your Verification Code</h1>

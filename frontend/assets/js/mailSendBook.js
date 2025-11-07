@@ -27,11 +27,11 @@ function getUserMessage1(carName) {
         </p>
 
         <div style="margin: 25px 0;">
-          <a href="https://kashika-travel.anubhavsingh.website/"
+          <a href="hhttps://kashiroute.nav-code.com/"
              style="display:inline-block; background:#2563eb; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:500; margin:6px;">
              Visit Our Website
           </a>
-          <a href="https://portfolio.anubhavsingh.website/"
+          <a href="https://anubhav.nav-code.com/"
              style="display:inline-block; background:#16a34a; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:500; margin:6px;">
              View Portfolio
           </a>
@@ -52,7 +52,7 @@ function getUserMessage1(carName) {
           <p style="font-size:13px; color:#94a3b8;">
             Warm regards,<br>
             <strong style="color:#1e3a8a;">Kashi Route Team</strong><br>
-            <a href="https://kashika-travel.anubhavsingh.website/" style="color:#2563eb; text-decoration:none;">www.kashika-travel.anubhavsingh.website</a>
+            <a href="https://kashiroute.nav-code.com/" style="color:#2563eb; text-decoration:none;">www.kashika-travel.anubhavsingh.website</a>
           </p>
         </div>
       </div>
@@ -86,7 +86,7 @@ function getHostMessage1({ email, userName }) {
           Please reach out to the customer as soon as possible for confirmation and package details.
         </p>
 
-        <a href="https://kashika-travel.anubhavsingh.website/"
+        <a href="https://kashiroute.nav-code.com/"
            style="display:inline-block; background:#15803d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none;">
           Visit Website
         </a>
@@ -149,7 +149,7 @@ function getUserMessage(packageName) {
         </p>
 
         <div style="margin-top:20px;">
-          <a href="https://kashika-travel.anubhavsingh.website/"
+          <a href="https://kashiroute.nav-code.com/"
              style="background:#2563eb;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;margin:5px;display:inline-block;">
              View More Packages
           </a>
@@ -195,7 +195,7 @@ function getHostMessage({ email, userName, packageName }) {
           Please follow up with the customer to finalize travel plans, payment, and itinerary.
         </p>
 
-        <a href="https://kashika-travel.anubhavsingh.website/"
+        <a href="https://kashiroute.nav-code.com/"
            style="background:#15803d;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;display:inline-block;">
            Manage Booking
         </a>
