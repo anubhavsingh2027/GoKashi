@@ -1,7 +1,7 @@
 # 🌍 KashiRoute
 
 **KashiRoute** is a travel and tour service platform based in **Varanasi (Kashi)**.
-The name **KashiRoute** represents that **every travel package and journey offered in this platform begins from Kashi.**
+The name **KashiRoute** represents that **every travel package and journey offered through this platform begins from Kashi.**
 Our goal is to provide comfortable, affordable, and well-organized tours starting from one of India's oldest and most spiritual cities.
 
 ---
@@ -10,7 +10,10 @@ Our goal is to provide comfortable, affordable, and well-organized tours startin
 
 - **Website:** https://kashiroute.nav-code.com/
 
-- **Preview Image:** https://kashiroute.nav-code.com/assets/images/websiteImg.png
+### 🖼️ Preview
+<p align="center">
+  <img src="https://kashiroute.nav-code.com/assets/images/websiteImg.png" alt="KashiRoute Preview" width="850px" />
+</p>
 
 ---
 
@@ -51,16 +54,16 @@ Our goal is to provide comfortable, affordable, and well-organized tours startin
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
 | **Authentication** | JWT / Sessions |
-| **Deployment** | (depends - e.g., Vercel, Render, Railway, etc.) |
+| **Deployment** | Vercel / Render / Railway / Other |
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Directory
 
 KashiRoute/
 ├─ frontend/ # User & Admin UI
 ├─ backend/ # API, DB Models, Auth, Controllers
-├─ README.md
+└─ README.md
 
 yaml
 Copy code
@@ -71,22 +74,22 @@ Copy code
 
 | Role | Capabilities |
 |------|-------------|
-| **User** | Book cars / packages, view history |
-| **Host** | (Optional role) Manage some listings |
-| **Admin** | Full dashboard access to manage data |
+| **User** | Book cars & packages, view booking history |
+| **Host** | (Optional role) Can manage some listings |
+| **Admin** | Full dashboard control |
 
 ---
 
 ## 📧 Contact & Support
 
 **Developer:** nav-code
-For inquiries or collaboration: *(Add your email here)*
+**For Collaboration / Support:** *(Add your email here)*
 
 ---
 
-## ⭐ Contribution
+## ⭐ Contributions
 
-Feel free to **star ⭐** the repo and contribute via **issues** or **pull requests**.
+If you find this project useful, consider giving it a **star ⭐** and contributing through issues or pull requests.
 
 ---
 
