@@ -10,7 +10,7 @@ Our goal is to provide comfortable, affordable, and well-organized tours startin
 
 - **Website:** https://kashiroute.nav-code.com/
 
-- **Preview Image:** https://kashiroute.nav-code.com/websiteImg.png
+- **Preview Image:** https://kashiroute.nav-code.com/assets/images/websiteImg.png
 
 ---
 
