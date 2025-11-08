@@ -1,4 +1,4 @@
-const apiurl = `https://go-kashi-backend.onrender.com/KashiRoute/`;
+const apiurl = `https://app.kashi.nav-code.com/KashiRoute/`;
 const mailapi= `https://mail-api-iuw1zw.fly.dev/sendMail`
 
 export async function createPackage(packageData) {
